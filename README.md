@@ -1,2 +1,8 @@
 # edem-clase-git
-School work and first code
+## Titulo 2
+
+-School work and first code
+-opcion 2
+
+'Resaltado´
+
